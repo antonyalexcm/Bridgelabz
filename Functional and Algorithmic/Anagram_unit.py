@@ -14,4 +14,4 @@ for i in d:
 if val2 in k:
     print(val + " and " + val2 +" are anagrams.")
 else:
-    print(val + " and " + val2 + " are not anagrams.")
+    print(val + " and " + val2 + " are not anagrams .")
