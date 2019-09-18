@@ -4,6 +4,6 @@ name = input("Enter your Name: ")
 
 #checking if name is atleast three digits.
 if(len(name)<3): 
- print("Name too Small!!")
+ print("Name too Small!!!!")
 else:
  print("\nHello {}, How are you?".format(name))
